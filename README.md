@@ -33,7 +33,6 @@
    <h2>Contact</h2>
    <ul>
    <li><a href="https://www.linkedin.com/in/brenohenriquepereirasoares/](https://www.linkedin.com/in/breno-soares-2b3856211/">LinkedIn</a></li>
-   <li>Email: youremail@example.com</li>
    </ul>
    </article>
 </html>
