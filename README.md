@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
    <head>
-      <title>Breno Henrique Pereira Soares - Backend Developer</title>
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
    </head>
    <body>
       <article class="markdown-body">
